@@ -14,7 +14,7 @@ The Ai Vision app is an Machine Learning based app, in which user can do Realtim
 *   For Object Detection and Tracking I have integerated the ssd_mobilenet_v1 model trained on the COCO dataset.
 
 *   And for more information here's the link - 
-    [https://developers.google.com/mediapipe/solutions/vision/object_detector](https://www.tensorflow.org/lite/examples/object_detection/overview)
+    [https://www.tensorflow.org/lite/examples/object_detection/overview](https://www.tensorflow.org/lite/examples/object_detection/overview)
 
 ## Build the app using Android Studio
 
